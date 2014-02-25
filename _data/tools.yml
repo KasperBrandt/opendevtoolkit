@@ -146,13 +146,13 @@
   slug: iati-to-lod
   url: http://iati2lod.appspot.com/
   aim: "To show the added benefits of Linked Data by linking the IATI dataset to various other datasets such as World Bank indicators and DBPedia information"
-  audience: 
-  tech: 
+  audience: "Linked Data enthusiasts"
+  tech: Python, Django
   source: IATI registry
-  github: 
+  github: https://github.com/KasperBrandt/IATI2LOD
   creator: Kasper Brandt
   wishlist:  
-  status: 
+  status: Alpha
   documentation: 
 
 - name: CSV2IATI
